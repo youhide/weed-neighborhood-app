@@ -1,6 +1,6 @@
 # Weed Neighborhood: desktop app downloads
 
-The desktop app for **[Weed Neighborhood](https://weed-neighborhood.youhide.com.br)**, a cozy multiplayer
+The desktop app for **[Weed Neighborhood](https://play.weedneighborhood.com)**, a cozy multiplayer
 3D neighborhood game for adults (18+). This repository holds **only the installers**, in its
 [Releases](https://github.com/youhide/weed-neighborhood-app/releases); it has no source code.
 
@@ -14,4 +14,4 @@ The desktop app for **[Weed Neighborhood](https://weed-neighborhood.youhide.com.
 The app is unsigned: the first time, Windows ("Windows protected your PC" → More info → Run anyway)
 or macOS (right-click → Open) asks you to confirm.
 
-You can also just play in the browser: <https://weed-neighborhood.youhide.com.br>
+You can also just play in the browser: <https://play.weedneighborhood.com>
